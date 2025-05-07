@@ -31,7 +31,7 @@ abt_asr3000/cetron_ct3003/cmcc_a10/cmcc_rax3000m-emmc/cmcc_rax3000m/h3c_nx30pro/
 360T7
 ├── .github/workflows
 │   ├── 360T7-hanwckf-mini.yml             拉取 hanwckf 源码进行编译
-│   ├── 360T7-padavanonly-mini.yml         拉取 padavanonly 源码进行编译
+│   
 │   ├── update-checker.yml                 定时检查源码的更新情况
 ├── doc
 │   ├── backup                             旧文件备份
